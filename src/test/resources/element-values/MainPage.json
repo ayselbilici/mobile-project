@@ -1,0 +1,148 @@
+[
+  {
+    "key": "Locaation_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/locationView",
+    "androidType": "id"
+  },
+  {
+    "key": "Popup_CloseButton",
+    "androidValue": "com.pozitron.hepsiburada:id/com_braze_inappmessage_modal_close_button",
+    "androidType": "id"
+  },
+  {
+    "key": "LocationCity_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/citySelectorView",
+    "androidType": "id"
+  },
+  {
+    "key": "LocaationTown_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/townSelectorView",
+    "androidType": "id"
+  },
+  {
+    "key": "LocationDistrict_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/districtSelectorView",
+    "androidType": "id"
+  },
+  {
+    "key": "Datetime_Picker_CancelButton",
+    "androidValue": "android:id/button2",
+    "androidType": "id"
+  },
+  {
+    "key": "LocationSave_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/buttonSave",
+    "androidType": "id"
+  },
+  {
+    "key": "Location_CityList",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/expandableLayoutSelectionList']//*[@resource-id='com.pozitron.hepsiburada:id/container']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Location_SelectedCityText",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/citySelectorView']//*[@resource-id='com.pozitron.hepsiburada:id/textViewSelectedItem']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Location_TownList",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/townItemsSelectionView']//*[@resource-id='com.pozitron.hepsiburada:id/container']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Location_DistrictList",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/districtItemsSelectionView']//*[@resource-id='com.pozitron.hepsiburada:id/container']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Categories_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_category",
+    "androidType": "id"
+  },
+  {
+    "key": "Categories_List",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/recyclerViewChildCategory']//*[@resource-id='com.pozitron.hepsiburada:id/layoutRoot']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ProductList_LocationText",
+    "androidValue": "com.pozitron.hepsiburada:id/textViewLocation",
+    "androidType": "id"
+  },
+  {
+    "key": "Homepage_SuperFiyat",
+    "androidValue": "com.pozitron.hepsiburada:id/dod_all",
+    "androidType": "id"
+  },
+  {
+    "key": "SuperFiyat_Product",
+    "androidValue": "com.pozitron.hepsiburada:id/view_product",
+    "androidType": "id"
+  },
+  {
+    "key": "SuperFiyat_ProductImage",
+    "androidValue": "com.pozitron.hepsiburada:id/productImage",
+    "androidType": "id"
+  },
+  {
+    "key": "SuperFiyat_ProductContent",
+    "androidValue": "com.pozitron.hepsiburada:id/zoomableImage",
+    "androidType": "id"
+  },
+  {
+    "key": "homepage_content",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/feature_card']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ProductDetail_FavoritesButton",
+    "androidValue": "com.pozitron.hepsiburada:id/product_detail_favourites",
+    "androidType": "id"
+  },
+  {
+    "key": "ProductDetail_BackButton",
+    "androidValue": "//*[@resource-id='com.pozitron.hepsiburada:id/leftIcon']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ProductDetail_ProductPrice",
+    "androidValue": "com.pozitron.hepsiburada:id/price",
+    "androidType": "id"
+  },
+  {
+    "key": "Login_Eposta",
+    "androidValue": "//*[@resource-id='txtUserName']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "LoginButton",
+    "androidValue": "//*[@resource-id='btnLogin']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Login_Password",
+    "androidValue": "//*[@resource-id='txtPassword']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Password_LoginButton",
+    "androidValue": "//*[@resource-id='btnEmailSelect']",
+    "androidType": "xpath"
+  },
+  {
+    "key": "LoginPopup_OKButton",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  },
+  {
+    "key": "Mylist_Button",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_my_list",
+    "androidType": "id"
+  },
+  {
+    "key": "Mylist_MyFavoritesButton",
+    "androidValue": "MyListBox-2e3647ee-9907-493b-a86b-fd1848d6e378",
+    "androidType": "id"
+  }
+]
+

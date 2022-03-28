@@ -1,0 +1,21 @@
+28-03-2022 21:09:00.693 [Gauge] [INFO] Watching directory: /Users/ayselbilici/Desktop/mobile-project/specs
+28-03-2022 21:09:00.694 [Gauge] [DEBUG] Found 2 files
+28-03-2022 21:09:00.695 [Gauge] [INFO] Watching directory: /Users/ayselbilici/Desktop/mobile-project/specs/cpt
+28-03-2022 21:09:00.695 [Gauge] [DEBUG] Found 1 files
+28-03-2022 21:09:00.697 [Gauge] [INFO] Initializing concepts cache with 12 concepts
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.698 [Gauge] [DEBUG] Adding concepts from /Users/ayselbilici/Desktop/mobile-project/specs/cpt/Homepage.cpt
+28-03-2022 21:09:00.699 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-03-2022 21:09:00.699 [Gauge] [DEBUG] Adding specs from /Users/ayselbilici/Desktop/mobile-project/specs/Homepage.spec
+28-03-2022 21:09:00.699 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-03-2022 21:09:00.699 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57856
